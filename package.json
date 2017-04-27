@@ -1,0 +1,22 @@
+{
+    "name": "theme-candy-cane",
+    "displayName": "theme-candy-cane",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "eisisig",
+    "engines": {
+        "vscode": "^1.11.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "candy-cane",
+                "uiTheme": "vs-dark",
+                "path": "./themes/candy-cane.tmTheme"
+            }
+        ]
+    }
+}
