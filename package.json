@@ -2,7 +2,7 @@
   "name": "theme-candy-cane",
   "displayName": "theme-candy-cane",
   "description": "",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "eisisig",
   "engines": {
     "vscode": "^1.11.0"
