@@ -2,6 +2,8 @@
 
 > My First atempt to move one of my themes from Webstrom to VSCode
 
+## WIP
+
 ### Workbench Theme
 
 A simple style for the experimental workbench theme
@@ -24,3 +26,9 @@ A simple style for the experimental workbench theme
     }
 }
 ```
+
+### Screenshot
+
+![alt text][screenshot]
+
+[screenshot]: theme-candy-cane-screenshot.png "Candy Cane screenshot"
