@@ -2,7 +2,7 @@
   "name": "theme-candy-cane",
   "displayName": "Candy Cane Theme",
   "description": "Delicious theme",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "publisher": "eisisig",
   "engines": {
     "vscode": "^1.11.0"
