@@ -31,4 +31,4 @@ A simple style for the experimental workbench theme
 
 ![alt text][screenshot]
 
-[screenshot]: theme-candy-cane-screenshot.png "Candy Cane screenshot"
+[screenshot]: https://raw.githubusercontent.com/eisisig/vscode-theme-candy-cane/master/theme-candy-cane-screenshot.png "Candy Cane screenshot"
